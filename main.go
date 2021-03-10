@@ -8,4 +8,5 @@ func main() {
 	fmt.Printf("First Change Online here")
 	fmt.Printf("second change local")
 	fmt.Printf("Second change online")
+	fmt.Printf("Changes made and git working fine ")
 }
