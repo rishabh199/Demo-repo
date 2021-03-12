@@ -14,7 +14,7 @@ type Order struct {
 	username string
 }
 
-var products [6]string = [6]string{"tv", "mobile", "watch", "fridge", "cooler", "fan"}
+var products [8]string = [8]string{"tv", "mobile", "watch", "fridge", "cooler", "fan", "monitor", "gaming mouse"}
 
 var slc []User
 var orders []Order
