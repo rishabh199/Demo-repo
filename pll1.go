@@ -9,4 +9,5 @@ func main() {
 	fmt.Printf("\n%d Hello World ", x)
 	fmt.Printf("\nPrinting functions first time from personal computer to local")
 	fmt.Printf("Gaurav Gupta")
+	fmt.Printf("Gaurav gupta from online to local")
 }
