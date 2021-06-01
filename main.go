@@ -12,5 +12,6 @@ func main() {
 	fmt.Printf("Changes from online checking...... ")
 	fmt.Printf("Changes working fine.............. ")
 	fmt.Printf("Trying new file with new changes ")
+	fmt.Printf("Trying new file with new changes ")
 
 }
